@@ -3,7 +3,6 @@
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/neurobagel/react-bagel/checks.yaml?branch=main&style=flat-square&logo=github&label=checks)](https://github.com/neurobagel/react-bagel/actions/workflows/checks.yaml)
 [![GitHub License](https://img.shields.io/github/license/neurobagel/react-bagel?style=flat-square)](LICENSE)
 
-
 # React Bagel
 
 This template provides a minimal setup to get React working in Vite with HMR along with Cypress, Typescript, tailwind, ESLint, husky, and lint staged configured.
